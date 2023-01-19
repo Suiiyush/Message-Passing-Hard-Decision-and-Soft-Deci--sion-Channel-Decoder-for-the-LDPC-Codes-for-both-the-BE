@@ -10,5 +10,6 @@ The model of Tanner Graph performs the message passing from bit node to the vari
 
 We performed Monte Carlo simulations for each value of p for the BEC and BSC and for each of the three LDPC codes (H matrices), we perform around 10000 simulations.
 
-
+Comparision of Hard decoding for BEC:
+![image-055](https://user-images.githubusercontent.com/73515280/213473578-11865097-a3bc-4a61-a5d4-a6a2145120ed.png)
 
